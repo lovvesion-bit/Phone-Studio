@@ -1,0 +1,357 @@
+{
+  "scriptVersion": 1,
+  "id": "jaemin-found-phone",
+  "title": "捡到了罗渽民的手机",
+  "description": "一部遗落的手机，几段没有说出口的话，以及罗渽民终于看清的心意。",
+  "revision": 1,
+  "phone": {
+    "owner": "罗渽民",
+    "date": "2026-10-31",
+    "time": "22:18",
+    "battery": 37,
+    "network": "5G",
+    "wallpaper": "sage"
+  },
+  "installedApps": [
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    "notes",
+    "calendar",
+    "music",
+    "kakao",
+    "instagram",
+    "settings"
+  ],
+  "contacts": [
+    {
+      "id": "jeno",
+      "name": "李帝努",
+      "phone": "",
+      "bio": "罗渽民最亲近的朋友。总能在他还没开口时，就发现他在想什么。"
+    },
+    {
+      "id": "mark",
+      "name": "李马克",
+      "phone": "",
+      "bio": "共同的朋友，习惯用玩笑把大家的心事点出来。"
+    },
+    {
+      "id": "owner",
+      "name": "罗渽民",
+      "phone": "",
+      "bio": "这部手机的主人。"
+    }
+  ],
+  "chats": [
+    {
+      "id": "kakao-jeno",
+      "app": "kakao",
+      "title": "帝努🐶",
+      "participants": [
+        "owner",
+        "jeno"
+      ],
+      "messages": [
+        {
+          "id": "jeno-chat-1",
+          "time": "2026-10-30 18:42",
+          "body": "到家了吗？刚才看你有点累。",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jeno-chat-2",
+          "time": "2026-10-30 18:45",
+          "body": "到了。你不是说还要去买东西吗？",
+          "senderId": "owner"
+        },
+        {
+          "id": "jeno-chat-3",
+          "time": "2026-10-30 18:46",
+          "body": "嗯，顺便给你带了你喜欢的那家面包。明天给你。",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jeno-chat-4",
+          "time": "2026-10-30 18:47",
+          "body": "你怎么总记得这些。",
+          "senderId": "owner"
+        },
+        {
+          "id": "jeno-chat-5",
+          "time": "2026-10-30 18:48",
+          "body": "因为是你啊。晚安，渽民。",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jeno-chat-6",
+          "time": "2026-10-30 18:49",
+          "body": "晚安。明天见。",
+          "senderId": "owner"
+        },
+        {
+          "id": "jeno-chat-7",
+          "time": "2026-10-31 21:51",
+          "body": "手机是不是落在练习室了？我打给你没接。",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jeno-chat-8",
+          "time": "2026-10-31 21:53",
+          "body": "我在门口等你。别着急，慢慢找。",
+          "senderId": "jeno"
+        }
+      ]
+    },
+    {
+      "id": "kakao-mark",
+      "app": "kakao",
+      "title": "马克哥",
+      "participants": [
+        "owner",
+        "mark"
+      ],
+      "messages": [
+        {
+          "id": "mark-chat-1",
+          "time": "2026-10-31 17:08",
+          "body": "你最近提到帝努的次数有点多哦。",
+          "senderId": "mark"
+        },
+        {
+          "id": "mark-chat-2",
+          "time": "2026-10-31 17:12",
+          "body": "我们本来就每天都在一起。",
+          "senderId": "owner"
+        },
+        {
+          "id": "mark-chat-3",
+          "time": "2026-10-31 17:13",
+          "body": "是啊。不过你看他的眼神，好像和看我们不太一样。",
+          "senderId": "mark"
+        },
+        {
+          "id": "mark-chat-4",
+          "time": "2026-10-31 17:16",
+          "body": "哥别乱说。",
+          "senderId": "owner"
+        },
+        {
+          "id": "mark-chat-5",
+          "time": "2026-10-31 17:18",
+          "body": "我没说你一定喜欢他。我只是觉得，你可以诚实一点。",
+          "senderId": "mark"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "notes": [
+      {
+        "id": "note-unsent",
+        "title": "没发出去的话",
+        "body": "帝努总说我是他最好的朋友。每次听见这句话，我都应该觉得幸福。\n\n可是今天他睡着以后，我看着他的侧脸，忽然明白自己为什么总想把时间留给他，为什么他一皱眉我就会担心，为什么听到他也会对别人说‘因为是你’时，我会嫉妒。\n\n我喜欢李帝努。不是因为我们认识很久，也不是因为他对我好。是因为不管过了多久，我还是会在人群里第一个找他。\n\n原来我不是害怕失去最好的朋友。我是害怕他知道以后，再也不把我当成最好的朋友。\n\n如果明天还能见到他，也许我可以试着不再假装什么都没有。",
+        "time": "2026-10-31 21:40",
+        "kind": "note",
+        "folder": "未发送"
+      },
+      {
+        "id": "note-reminder",
+        "title": "明天记得带给帝努",
+        "body": "他喜欢的面包。还有那句一直没说出口的话。",
+        "time": "2026-10-31 20:05",
+        "kind": "note",
+        "folder": "备忘录"
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-two-coffees",
+        "title": "两杯咖啡",
+        "body": "今天收工后拍的。帝努把最后一口留给我了。照片里他正在笑，我也在笑。原来我最喜欢的照片，总是有他。",
+        "time": "2026-10-31 19:32",
+        "kind": "image",
+        "folder": "最近项目"
+      },
+      {
+        "id": "photo-sleeping-jeno",
+        "title": "睡着的帝努",
+        "body": "上次坐车回去时拍的。他靠着我的肩膀睡着了。没有发给任何人。",
+        "time": "2026-10-29 23:14",
+        "kind": "image",
+        "hidden": true,
+        "folder": "收藏"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "calendar-tomorrow",
+        "title": "明天 · 和帝努见面",
+        "body": "11:30 练习室门口。把面包给他。想好要不要说出心意。",
+        "time": "2026-11-01 11:30",
+        "kind": "event"
+      }
+    ],
+    "music": [
+      {
+        "id": "song-draft",
+        "title": "最近循环的歌",
+        "body": "备注：听到副歌就会想起帝努。",
+        "time": "2026-10-31 20:50",
+        "kind": "text"
+      }
+    ],
+    "phone": [
+      {
+        "id": "missed-call-jeno",
+        "title": "李帝努",
+        "body": "未接来电 · 21:56",
+        "time": "2026-10-31 21:56",
+        "kind": "call",
+        "meta": {
+          "phone": ""
+        }
+      }
+    ],
+    "instagram": [
+      {
+        "id": "insta-jeno-story",
+        "title": "帝努的限时动态",
+        "body": "练习室外的夜景。文字：‘有人捡到一部手机吗？主人现在有点着急。’",
+        "time": "2026-10-31 22:02",
+        "kind": "post",
+        "meta": {
+          "story": "true"
+        }
+      }
+    ]
+  },
+  "variables": {},
+  "events": [
+    {
+      "id": "read-confession",
+      "label": "读完没发出去的话",
+      "event": "read",
+      "target": "note-unsent",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "photo-sleeping-jeno",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "一张隐藏照片已解锁"
+        }
+      ],
+      "next": [
+        "wait-for-call"
+      ]
+    },
+    {
+      "id": "wait-for-call",
+      "label": "帝努再次打来电话",
+      "type": "delay",
+      "delayMs": 1000,
+      "actions": [
+        {
+          "type": "call",
+          "key": "call-jeno",
+          "value": "李帝努"
+        }
+      ]
+    },
+    {
+      "id": "answer-jeno",
+      "label": "接听帝努的电话",
+      "event": "callAnswered",
+      "target": "call-jeno",
+      "next": [
+        "what-to-say"
+      ]
+    },
+    {
+      "id": "what-to-say",
+      "label": "明天见面时，你想怎么做？",
+      "type": "choice",
+      "next": [
+        "tell-jeno",
+        "keep-it-for-now"
+      ]
+    },
+    {
+      "id": "tell-jeno",
+      "label": "把心意告诉帝努",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "坦白：明天，你决定把那句喜欢亲口告诉帝努。"
+        }
+      ]
+    },
+    {
+      "id": "keep-it-for-now",
+      "label": "先珍藏这份心意",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "珍藏：明天，你先把面包交给帝努，把心意留到更合适的时刻。"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "tell-jeno",
+      "steps": [
+        {
+          "event": "read",
+          "target": "note-unsent"
+        },
+        {
+          "advanceMs": 1000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-jeno"
+        },
+        {
+          "choose": "tell-jeno"
+        }
+      ],
+      "ending": "坦白：明天，你决定把那句喜欢亲口告诉帝努。",
+      "expectUnlocked": [
+        "photo-sleeping-jeno"
+      ]
+    },
+    {
+      "name": "keep-it-for-now",
+      "steps": [
+        {
+          "event": "read",
+          "target": "note-unsent"
+        },
+        {
+          "advanceMs": 1000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-jeno"
+        },
+        {
+          "choose": "keep-it-for-now"
+        }
+      ],
+      "ending": "珍藏：明天，你先把面包交给帝努，把心意留到更合适的时刻。",
+      "expectUnlocked": [
+        "photo-sleeping-jeno"
+      ]
+    }
+  ]
+}
